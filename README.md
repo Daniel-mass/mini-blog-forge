@@ -24,6 +24,7 @@ This workflow reduces the blank-page problem, accelerates content production, an
 ---
 
 ## Architecture
+<img width="1536" height="1024" alt="archetch_dig" src="https://github.com/user-attachments/assets/082d657c-e472-4dea-acb0-169268bc8d42" />
 
 MiniBlogForge follows a modular, sequential architecture with three primary agents:
 
@@ -65,3 +66,4 @@ POST /generate
   "tone": "informative",
   "length": "short"
 }
+
